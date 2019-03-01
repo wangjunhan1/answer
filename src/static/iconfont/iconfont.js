@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components';
 
-export const iconfont = createGlobalStyle`
+export const Iconfont = createGlobalStyle`
   @font-face {font-family: "iconfont";
     src: url('./iconfont.eot?t=1551079452916'); /* IE9 */
     src: url('./iconfont.eot?t=1551079452916#iefix') format('embedded-opentype'), /* IE6-IE8 */
